@@ -210,12 +210,10 @@ git clone https://github.com/lokeshjakhar7781/California-House-Price-Predictor.g
 cd California-House-Price-Predictor
 ```
 
-### 2. Add the Dataset
+### 2. Install Dependencies
 
-Make sure the following file is present in the project directory:
-
-```text
-housing.csv
+```bash
+pip install pandas numpy scikit-learn joblib
 ```
 
 ### 3. Run the Project
