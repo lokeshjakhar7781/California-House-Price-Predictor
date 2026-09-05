@@ -206,17 +206,11 @@ The project creates an `income_cat` feature based on `median_income` and uses it
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/California-Housing-Price-Prediction.git
-cd California-Housing-Price-Prediction
+git clone https://github.com/lokeshjakhar7781/California-House-Price-Predictor.git
+cd California-House-Price-Predictor
 ```
 
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Add the Dataset
+### 2. Add the Dataset
 
 Make sure the following file is present in the project directory:
 
@@ -224,7 +218,7 @@ Make sure the following file is present in the project directory:
 housing.csv
 ```
 
-### 4. Run the Project
+### 3. Run the Project
 
 ```bash
 python main.py
